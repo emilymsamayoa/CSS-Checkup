@@ -1,6 +1,8 @@
+/* This is a CSS comment */
 body {
     background-color: rgb(125, 157, 170);
 }
+/* This is a nother CSS comment */
 .wrapper {
     border: 10px solid rgb(139, 83, 150);
 }
