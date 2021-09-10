@@ -1,0 +1,14 @@
+.wrapper{
+    margin: 5px;
+}
+#experiment{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    border: solid black 5px;
+    background: lightpink;
+}
+img{
+    width: 500px;
+    height: 700px;
+}
